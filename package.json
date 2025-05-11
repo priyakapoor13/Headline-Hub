@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "netlify deploy --dir=dist"  // Replace with Netlify deploy command
+    "deploy": "netlify deploy --dir=dist" 
   },
   "dependencies": {
     "react": "^19.1.0",
