@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navbar from "./Components/Navbar"
 import NewsBoard from "./Components/NewsBoard"
-import Footer from "./Components/footer";
+import Footer from "./Components/Footer";
 
 
 
